@@ -153,6 +153,7 @@ body {
   min-height: 250px;
   width: 100%;
   justify-content: space-between;
+  padding-top:25px;
 }
 .address {
   color: #fff;
